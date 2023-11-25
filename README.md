@@ -5,7 +5,7 @@
 ## Hi there I'm tercodiablo
 
 + 🌱 Currently learning REACT + JS Vanilla. 
-+ 👀 I’m interested in slowmotion and frontend development
-+ 👯 I would like to collaborate on educational video games and virtual reality environments.
-+ ⚡ Likes: Making clothes, textures and stickers, listening psychedilc-dark melodies and cumbiambera music.
-+ 📧 You can contact me at: tercodiablo@outlook.com
++ 👀 I’m interested in web dev and motion graphics 
++ 👯 I would like to collaborate on video games and virtual reality ambients.
++ ⚡ Likes: Motion, stickers, ghostly sounds.
++ 📧 Contact me at: tercodiablo@outlook.com
