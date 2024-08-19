@@ -4,8 +4,8 @@
 
 ## Hi there I'm tercodiablo
 
-+ 🌱 Currently learning REACT + JS Vanilla. 
-+ 👀 I’m interested in web dev and motion graphics 
-+ 👯 I would like to collaborate on video games and virtual reality ambients.
-+ ⚡ Likes: Motion, stickers, ghostly sounds.
-+ 📧 Contact me at: tercodiablo@outlook.com
++ 🌱 Currently learning REACT + JS Vanilla and Im also a blender enthusiast
++ 👀 I’m interested in web dev and motion graphics, 
++ 👯 I would like to collaborate on interactive and virtual reality ambients.
++ ⚡ Likes: slowmotion, stickers, sea sounds.
++ 📧 Contact me at: naielcatar@gmail.com
